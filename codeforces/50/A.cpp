@@ -1,12 +1,12 @@
 #include<stdio.h>
 int main()
 {
-    int a,b,x;
-scanf("%d %d",&a,&b);
- 
-if(a>=1 && b<=16 ){
-    x=(a*b)/2;
-    printf("%d",x);
-}
-return 0;
+    int N,M,s;
+    scanf("%d%d",&M,&N);
+    if(M>=1 && N<=16)
+    {
+    s=(M*N)/2;
+    }
+    printf("%d",s);
+    return 0;
 }
