@@ -1,10 +1,9 @@
-#include<bits/stdc++.h>
-using namespace std;
+#include <stdio.h>
 
-int32_t main(){
-	ios_base::sync_with_stdio(0);
-	cin.tie(0);
-	int a;
-	cout << 25 << '\n';
-	return 0;
+int main(){
+    long long int n;
+    scanf("%d", &n);
+    printf("25\n");
+    return 0;
 }
+
