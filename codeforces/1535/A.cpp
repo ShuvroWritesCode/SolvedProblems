@@ -1,39 +1,47 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-int32_t main() {
-	ios_base::sync_with_stdio(0);
-	cin.tie(0);
-	
-	int a, b, c, d, n;
-	cin >> n;
+#include <stdio.h>
  
-    for(int i = 0; i < n; i++){
-       cin >> a >> b >> c >> d;
+int main()
+{
+   int a,b,c,d,n;
+   scanf("%d",&n);
+ 
+   while(n--)
+   {
+       scanf("%d %d %d %d",&a,&b,&c,&d);
+ 
        int max1,max2,min1,min2;
-       if (a>b){
+ 
+       if (a>b)
+       {
            max1=a;
            min1=b;
        }
-       else{
+       else
+       {
            max1=b;
            min1=a;
        }
-       if (c>d){
+ 
+       if (c>d)
+       {
            max2=c;
            min2=d;
        }
-       else{
+       else
+       {
            max2=d;
            min2=c;
        }
-
-       if (max1>min2 && max2>min1){
-           cout << "YES" << '\n';
+ 
+       if (max1>min2 && max2>min1)
+       {
+           printf("YES\n");
        }
-       else{
-           cout << "NO" << '\n';
+       else
+       {
+           printf("NO\n");
        }
+ 
    }
    return 0;
 }
