@@ -1,4 +1,21 @@
 {
+  "CF133287472": {
+    "contest_id": 92,
+    "language": "GNU C11",
+    "path": "codeforces/92/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chips",
+    "problem_url": "https://codeforces.com/contest/92/problem/A",
+    "submission_id": "CF133287472",
+    "submission_url": "https://codeforces.com/contest/92/submission/133287472",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/28/2021 02:05"
+  },
   "CF133443556": {
     "contest_id": 463,
     "language": "GNU C11",
