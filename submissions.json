@@ -1,4 +1,20 @@
 {
+  "CF133704239": {
+    "contest_id": 155,
+    "language": "GNU C11",
+    "path": "codeforces/155/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "I_love_\\%username\\%",
+    "problem_url": "https://codeforces.com/contest/155/problem/A",
+    "submission_id": "CF133704239",
+    "submission_url": "https://codeforces.com/contest/155/submission/133704239",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Oct/31/2021 02:58"
+  },
   "CF133875194": {
     "contest_id": 1293,
     "language": "GNU C11",
