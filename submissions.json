@@ -1,4 +1,22 @@
 {
+  "CF134698297": {
+    "contest_id": 1366,
+    "language": "GNU C11",
+    "path": "codeforces/1366/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shovels and Swords",
+    "problem_url": "https://codeforces.com/contest/1366/problem/A",
+    "submission_id": "CF134698297",
+    "submission_url": "https://codeforces.com/contest/1366/submission/134698297",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Nov/09/2021 01:02"
+  },
   "CF134725705": {
     "contest_id": 472,
     "language": "GNU C11",
