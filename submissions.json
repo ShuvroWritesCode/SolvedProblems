@@ -1,4 +1,20 @@
 {
+  "AC31625305": {
+    "contest_id": "abc199",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc199/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Square Inequality",
+    "problem_url": "https://atcoder.jp/contests/abc199/tasks/abc199_a",
+    "submission_id": "AC31625305",
+    "submission_url": "https://atcoder.jp/contests/abc199/submissions/31625305",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/12/2022 21:30"
+  },
   "AC31625410": {
     "contest_id": "abc193",
     "language": "C++ (GCC 9.2.1)",
