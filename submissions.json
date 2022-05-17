@@ -1327,6 +1327,23 @@
     ],
     "timestamp": "May/17/2022 08:08"
   },
+  "CF157437797": {
+    "contest_id": 1619,
+    "language": "GNU C++14",
+    "path": "codeforces/1619/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Square String?",
+    "problem_url": "https://codeforces.com/contest/1619/problem/A",
+    "submission_id": "CF157437797",
+    "submission_url": "https://codeforces.com/contest/1619/submission/157437797",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/17/2022 08:29"
+  },
   "CF157579843": {
     "contest_id": 58,
     "language": "GNU C++14",
