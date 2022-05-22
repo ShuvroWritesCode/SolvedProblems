@@ -12,23 +12,24 @@ int32_t main(){
 	cout.tie(0);
 		
 		int sum = 0;
-		string s; cin >> s;
-		for(int i = 0; i < s.size(); i++){
-			sum += s[i] - '0';
-		}
-		int ans = 1;
-		if(s.size() == 1){
-			ans = 0;
-		}
-		while(sum>9){
-			int temp = sum, newsum = 0;
-			while(temp){
-			newsum += temp%10;
-			temp /= 10;
-			}
-			sum = newsum;
-			ans++;
-		}
-		cout << ans << '\n';
+    string s; cin >> s;
+    for (int i = 0; i < s.size(); i++) sum += s[i] - '0';
+    int ans = 1;
+    if (s.size() == 1) ans = 0;
+
+    while (sum > 9)
+    {
+        int temp = sum, newsum = 0;
+        while (temp)
+        {
+            newsum += temp % 10;
+            temp /= 10;
+        }
+        sum = newsum;
+        ans++;
+    }
+
+    cout << ans << endl;
+
 	return 0;
 }
